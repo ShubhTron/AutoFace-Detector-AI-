@@ -1,0 +1,4 @@
+numpy==1.23.6
+tensorflow
+mtcnn
+opencv-python
